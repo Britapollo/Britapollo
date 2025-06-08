@@ -9,7 +9,7 @@
 
 I'm Brian Apollo — part statistician, part programmer, and full-time tech optimist. I like to think of myself as a digital bridge: connecting raw data to meaningful insights, and people to impactful opportunities.
 
-With a solid foundation in Statistics & Programming from Kenyatta University, I've worn many hats: data analyst, campus ambassador, community lead, and dashboard whisperer. Whether I’m visualising sales trends in Power BI, coordinating failover rehearsals at KCB Bank, or mentoring peers through GDSC, I’m always driven by the question: "How can we make this smarter?"
+With a solid foundation in statistics and programming from Kenyatta University, I've worn many hats: data analyst, campus ambassador, community lead, and dashboard expert. Whether I’m visualising sales trends in Power BI, coordinating failover rehearsals at KCB Bank, or mentoring peers through GDSC, I’m always driven by the question: "How can we make this smarter?"
 
 My mission? To turn complex problems into simple, data-driven solutions — and to do it collaboratively, creatively, and with purpose.
 
@@ -34,7 +34,7 @@ I love working at the intersection of **technology, leadership, and impact**, wi
 - **Certifications:**
   - Data Science with Python – DataCamp
   - Data analysis essentials - Microsoft & LinkedIn
-  - Computer Programming – Bounty Analytica
+  - Data Science – Bounty Analytica
 
 ---
 
@@ -72,7 +72,7 @@ I love working at the intersection of **technology, leadership, and impact**, wi
 - [LinkedIn](https://www.linkedin.com/in/brian-apollo-6054441b5/)  
 - [Email](brianapollo@gmail.com)  
 - [Twitter](https://twitter.com/brian_apollo6)   
-- **GitHub:**(https://github.com/Britapollo)
+- [GitHub](https://github.com/Britapollo)
 
 ---
 
