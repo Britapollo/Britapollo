@@ -72,7 +72,7 @@ I love working at the intersection of **technology, leadership, and impact**, wi
 - [LinkedIn](https://www.linkedin.com/in/brian-apollo-6054441b5/)  
 - [Email](brianapollo@gmail.com)  
 - [Twitter](https://twitter.com/brian_apollo6)   
-- [GitHub](https://github.com/Britapollo)
+-  **GitHub:** [@Britapollo](https://github.com/Britapollo)
 
 ---
 
