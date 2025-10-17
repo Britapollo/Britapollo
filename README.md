@@ -78,15 +78,15 @@ I love working at the intersection of **technology, leadership, and impact**, wi
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Britapollo&show_icons=true&theme=tokyonight" alt="Brian Apollo's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Britapollo&theme=tokyonight" alt="Brian Apollo's GitHub streak" />
 </p>
-
----
 
 ### 💡 Fun Fact
 
