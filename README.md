@@ -7,11 +7,11 @@
 
 ### 👨‍💻 About Me
 
-I'm Brian Apollo — part statistician, part programmer, and full-time tech optimist. I like to think of myself as a digital bridge: connecting raw data to meaningful insights, and people to impactful opportunities.
+I'm Brian Apollo, part statistician, part programmer, and full-time tech optimist. I like to think of myself as a digital bridge: connecting raw data to meaningful insights, and people to impactful opportunities.
 
 With a solid foundation in statistics and programming from Kenyatta University, I've worn many hats: data analyst, campus ambassador, community lead, and dashboard expert. Whether I’m visualising sales trends in Power BI, coordinating failover rehearsals at KCB Bank, or mentoring peers through GDSC, I’m always driven by the question: "How can we make this smarter?"
 
-My mission? To turn complex problems into simple, data-driven solutions — and to do it collaboratively, creatively, and with purpose.
+My mission? To turn complex problems into simple, data-driven solutions, and to do it collaboratively, creatively, and with purpose.
 
 I love working at the intersection of **technology, leadership, and impact**, with a keen interest in **data engineering**, **artificial intelligence**, **data visualization**, and **risk & compliance analytics** in fintech and health systems.
 
@@ -40,7 +40,7 @@ I love working at the intersection of **technology, leadership, and impact**, wi
 
 ### 🌍 Community Leadership
 
-- **Google Developer Student Clubs (GDSC)** – Core Lead in Machine Learning, Kenyatta University
+- **Google Developer Student Clubs Kenyatta University (GDSCKU)** – Core Lead in Machine Learning, Kenyatta University
 - **Campus Ambassador** – Moringa School, Bounty Analytica, International MUN, Hack2Skill
 - **Speaker & Participant** – DevFest Nairobi 2024 (Responsible AI, Cloud with Terraform, DSA)
 
@@ -72,7 +72,7 @@ I love working at the intersection of **technology, leadership, and impact**, wi
 - [LinkedIn](https://www.linkedin.com/in/brian-apollo-6054441b5/)  
 - [Email](brianapollo@gmail.com)  
 - [Twitter](https://twitter.com/brian_apollo6)   
--  **GitHub:** [@Britapollo](https://github.com/Britapollo)
+- [GitHub](https://github.com/Britapollo)
 
 ---
 
