@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Brian Apollo 👋</h1>
+<h1 align="center">Hi there, I'm Brian Apollo </h1>
 <p align="center">
   🌍 Based in Nairobi, Kenya &nbsp;|&nbsp; 🎓 BSc in Statistics & Programming &nbsp;|&nbsp; 💻 Data Engineer
 </p>
